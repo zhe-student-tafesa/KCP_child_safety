@@ -35,7 +35,7 @@ You must notify us via the in-app mechanism provided, namely (THE REPORT USER BU
 
 We will remove any CSAM that is reported to us AS SOON AS WE BECOME AWARE OF IT.
 
-Any person creating, uploading, storing, sharing or distributing any CSAM to the KIDS CONNECTING PARENTS application or otherwise engaging in any CSAE via the KIDS CONNECTING PARENTS application will have their Account immediately SUSPENDED without access to any data back-up, their subscription immediately terminated without refund of any subscription fees, and full access to their Account as well as all account, payment and other personal details provided to police and other relevant criminal investigators. 
+Any person creating, uploading, storing, sharing or distributing any CSAM to the KIDS CONNECTING PARENTS application or otherwise engaging in any CSAE via the KIDS CONNECTING PARENTS application will have their Account immediately SUSPENDED without access to any data back-up, and full access to their Account as well as all account, payment and other personal details provided to police and other relevant criminal investigators. [when their  account were suspended, they can cancel their subscription in suspended page]
 
 We will co-operate fully, to provide all assistance to investigators and prosecutors, to see any user of the KIDS CONNECTING PARENTS application creating, uploading, storing, sharing, distributing or viewing any CSAM and/or otherwise engaging in CSAE is prosecuted to the full extent of the law.
 
